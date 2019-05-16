@@ -1,3 +1,4 @@
 Meu primeiro
-arquivo gerenciado
+arquivo 
 por git
+versao 1.0.0
